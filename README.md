@@ -27,6 +27,6 @@ The app fetches live weather data from a public API and displays temperature, we
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/kaushal918/weather-app.git
+git clone https://github.com/Kaushal918/weather-app.git
 cd weather-info-app
 
