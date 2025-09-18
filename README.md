@@ -10,7 +10,7 @@ The app fetches live weather data from a public API and displays temperature, we
 - 🔍 Search weather by city name  
 - 🌡️ Display current temperature and weather conditions  
 - 💨 Show humidity and wind speed  
-- 🎨 Clean and responsive UI (works on desktop & mobile)  
+- 🎨 Clean and responsive UI 
 - ⚡ Built using React.js with no backend  
 
 ---
@@ -19,5 +19,14 @@ The app fetches live weather data from a public API and displays temperature, we
 
 - **Frontend**: React.js, HTML, CSS, JavaScript (ES6+)  
 - **API**: [OpenWeatherMap API](https://openweathermap.org/api) 
-- **Tools**: Git, GitHub, VS Code  
+- **Tools**: Git, GitHub, VS Code
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/kaushal918/weather-app.git
+cd weather-app
 
